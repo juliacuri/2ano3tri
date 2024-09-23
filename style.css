@@ -69,8 +69,8 @@ body {
 .cartao__conteudo__resposta {
     backface-visibility: hidden;
     position: absolute;
-    height: 100px;
-    width: 100px;
+    height: 500px;
+    width: 500px;
 }
 
 .cartao__conteudo__resposta {
