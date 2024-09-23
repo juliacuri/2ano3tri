@@ -6,18 +6,18 @@ criaCartao(
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Qual é o maior oceano do mundo?',
+    'Oceano Pacífico'
 )
 
 criaCartao(
-    'Programação',
-    'Qual a cor do céu?',
-    'o céu é azul'
+    'História',
+    'Quem descobriu a América em 1492?',
+    'Cristóvão Colombo'
 )
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz oi em Inglês?',
+    '?',
     'Oi em ingles é HI (RAI)'
 )
